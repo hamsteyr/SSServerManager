@@ -1,0 +1,39 @@
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\InsSS Server Manager.exe.config
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\InsSS Server Manager.exe
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\InsSS Server Manager.pdb
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\obj\Debug\InsSS_Server_Manager.Properties.Resources.resources
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\obj\Debug\InsSS Server Manager.csproj.GenerateResource.cache
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\obj\Debug\InsSS Server Manager.csproj.CoreCompileInputs.cache
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\obj\Debug\InsSS Server Manager.exe
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\obj\Debug\InsSS Server Manager.pdb
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\obj\Debug\InsSS_Server_Manager.Form_AddMutator.resources
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\obj\Debug\InsSS_Server_Manager.Form_MutatorSelect.resources
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\obj\Debug\InsSS_Server_Manager.Form_Main.resources
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\obj\Debug\InsSS Server Manager.csproj.CopyComplete
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\System.Buffers.dll
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\System.Memory.dll
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\System.ValueTuple.dll
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\System.Buffers.xml
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\System.Memory.xml
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\System.ValueTuple.xml
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\obj\Debug\InsSS_Server_Manager.Form_AddMod.resources
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\obj\Debug\InsSS_Server_Manager.Form_ModManager.resources
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\obj\Debug\InsSS_Server_Manager.Form_AddMap.resources
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\obj\Debug\InsSS_Server_Manager.Form_AddScenario.resources
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\obj\Debug\InsSS Server Manager.csproj.AssemblyReference.cache
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\MadMilkman.Ini.dll
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\MadMilkman.Ini.xml
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\INIFileParser.dll
+C:\Users\HaMsTeYr\Documents\Visual Studio 2019\Projects\InsSS Server Manager\InsSS Server Manager\bin\Debug\INIFileParser.xml

@@ -1,0 +1,6 @@
+1.0.0.4
+Added support for Gap Map
+Changed save location of save data to exe dir
+Added basic Game.ini Settings
+Fixed bug where server won't show up in browser if not Mods are used
+Mod parameters won't appear if no mods are being used
